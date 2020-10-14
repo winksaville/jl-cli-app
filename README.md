@@ -1,5 +1,7 @@
 # Create a julia script that executes from command line
 
+See: https://discourse.julialang.org/t/way-to-make-cli-in-julia/5171/3
+
 This is trivial create a legal executable and add
 the shebang header:
 
